@@ -1,7 +1,7 @@
 # Hola, mi nombre es Maikel Pelaez 👋
 ### Soy un Pastor evangélico e Ingeniero industrial que de ves en cuando programo para beneficio de la Iglesia Metodista en Cuba
 
-![https://github.com/mpmerd](https://vscode.dev/github/mpmerd/mpmerd/blob/main/mpmerd.jpeg)
+![Saludos](mpmerd.jpeg)
 
 Desde que comencé a trabajar como Ingeniero industrial me incliné por la programación
 
@@ -15,12 +15,9 @@ Del 2008 hasta la actualidad comencé el pastorado en la Iglesia Metodista en Cu
 ## Encuéntrame en:
 
 [YouTube](https://youtube.com/@mpmerd)
-
 </br>
 [Facebook](https://facebook.com/maikel.pelaez)
 </br>
 [X](https://x.com/maikelpelaez)
-
 </br>
-
 [Wordpress](https://avivador.wordpress.com)
