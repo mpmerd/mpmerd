@@ -5,7 +5,7 @@
 
 Desde que comencé a trabajar como Ingeniero industrial me incliné por la programación
 
-De 1998 al 2000 trabajé en Varadero aplicando el perfeccionamiento empresarial a las empreseas contratistas, inversionistas y las que ofrecían la mano de obra. En ese tiempo use mucho la ofimática de Microsoft Office y el VB para aplicaciones.
+De 1998 al 2000 trabajé en Varadero aplicando el perfeccionamiento empresarial a las empreseas contratistas, inversionistas y las que ofrecían la mano de obra. En ese tiempo usé mucho la ofimática de Microsoft Office y el VB para aplicaciones.
 
 Del 2000 al 2008 trabajé en le ONAT como administrador de redes en tres municipios de la provincia Granma y programé un sofware para windows en VB net llamado DISPAJ que se usó por varios años. En ese tiempo el programa oficial de la ONAT llamado SICAT no hacía bien el trabajo para el cálculo de la disciplina de pago de las personas jurídicas y mi software demostró que hacía bien el trabajo. Leia de una BD Oracle y trabajaba local en una Bd Access.
 
