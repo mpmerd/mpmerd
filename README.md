@@ -4,7 +4,7 @@
 
 ![Saludos](mpmerd.jpeg)
 
-Soy Pastor evangélico y, además, Ingeniero Industrial. Mi pasión por la programación comenzó desde mis primeros años como profesional, aplicando soluciones tecnológicas para la Iglesia Metodista en Cuba.
+Soy Pastor evangélico y, además, Ingeniero Industrial. Mi pasión por la programación comenzó desde mis primeros años como profesional, aplicando soluciones tecnológicas tanto para la Oficina Nacional de Administración Tributaria (ONAT) donde primero trabajé como en la actualidad para la Iglesia Metodista en Cuba.
 
 Desde 1998 al 2000 trabajé en Varadero, implementando estrategias de perfeccionamiento empresarial en compañías contratistas, inversionistas y proveedoras de servicios. Durante ese período me especialicé en el uso de Microsoft Office y Visual Basic para la automatización de procesos.
 
