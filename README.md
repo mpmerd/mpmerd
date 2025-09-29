@@ -1,33 +1,26 @@
 # Hola, mi nombre es Maikel Pelaez 👋
 ### Soy un Pastor evangélico e Ingeniero industrial que de ves en cuando programo para beneficio de la Iglesia Metodista en Cuba
 
-![https://github.com/mpmerd](./mpmerd_github_profile.png)
+![https://github.com/mpmerd](https://vscode.dev/github/mpmerd/mpmerd/blob/main/mpmerd.jpeg)
 
+Desde que comencé a trabajar como Ingeniero industrial me incliné por la programación
 
-Soy ingeniero de software profesional desde 2010.
+De 1998 al 2000 trabajé en Varadero aplicando el perfeccionamiento empresarial a las empreseas contratistas, inversionistas y las que ofrecían la mano de obra. En ese tiempo use mucho la ofimática de Microsoft Office y el VB para aplicaciones.
 
-He trabajado en distintas multinacionales del sector, creando [MoureDev](https://moure.dev) en 2015 para dedicarme a desarrollar aplicaciones móviles a tiempo completo, llegando a colaborar con empresas de distintas partes del mundo. He desarrollado más de 150 proyectos (alcanzando el número 1 en 30 países) y he creado mi propia startup.
+Del 2000 al 2008 trabajé en le ONAT como administrador de redes en tres municipios de la provincia Granma y programé un sofware para windows en VB net llamado DISPAJ que se usó por varios años. En ese tiempo el programa oficial de la ONAT llamado SICAT no hacía bien el trabajo para el cálculo de la disciplina de pago de las personas jurídicas y mi software demostró que hacía bien el trabajo. Leia de una BD Oracle y trabajaba local en una Bd Access.
 
-Desde 2018 comienzo a crear contenido divulgativo sobre programación en redes sociales, compaginándolo con mi actividad como freelance. Nuestra comunidad de habla hispana sobre desarrollo de software es una de las más grandes a nivel mundial (con cerca de dos millones de seguidores entre las distintas redes). Mi objetivo es devolver todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años, así como ayudar a que más personas puedan acceder a su estudio.
+Del 2008 hasta la actualidad comencé el pastorado en la Iglesia Metodista en Cuba (IMECU). Me gradué de licenciado en sagrada teología sin dejar de aportar gratuitamente cada vez que se necesita de mis conocimentos en programación. Mi proyecto actual que está en producción llamado GabIMECU, consta de dos softwares, uno para windows en .Net Famework 4.8 desarrollado en C# y otro compilado para Android con NET MAUI. Ambos softwares generan y procesan toda la información de los pastores metodistas en toda la Isla de Cuba como las mudanzas de un lugar a otro, categorias pastorales, familias pastorales. Control de los distritos, superintendentes y otros detalles importantes.
 
-> 👥 [Microsoft MVP](https://mvp.microsoft.com/es-es/PublicProfile/5004970) (Most Valuable Professional) in Developer Technologies
-> 
-> ⭐️ [GitHub star](https://stars.github.com/profiles/mouredev/)
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_by_Brais_Moure-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredev)
-[![YouTube](https://img.shields.io/badge/YouTube-Mouredev_TV-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/@mouredevtv)
+[YouTube](https://youtube.com/@mpmerd)
+
 </br>
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
+[Facebook](https://facebook.com/maikel.pelaez)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
+[X](https://x.com/maikelpelaez)
+
 </br>
-[![Link](https://img.shields.io/badge/Links-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+
+[Wordpress](https://avivador.wordpress.com)
