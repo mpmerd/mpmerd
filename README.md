@@ -1,5 +1,6 @@
 # Hola, mi nombre es Maikel Pelaez 👋
-### Soy un Pastor evangélico e Ingeniero industrial que de ves en cuando programo para beneficio de la Iglesia Metodista en Cuba
+
+### "Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres". Colosenses 3:23
 
 ![Saludos](mpmerd.jpeg)
 
