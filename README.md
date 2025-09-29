@@ -3,21 +3,21 @@
 
 ![Saludos](mpmerd.jpeg)
 
-Desde que comencé a trabajar como Ingeniero industrial me incliné por la programación
+Soy Pastor evangélico y, además, Ingeniero Industrial. Mi pasión por la programación comenzó desde mis primeros años como profesional, aplicando soluciones tecnológicas para la Iglesia Metodista en Cuba.
 
-De 1998 al 2000 trabajé en Varadero aplicando el perfeccionamiento empresarial a las empreseas contratistas, inversionistas y las que ofrecían la mano de obra. En ese tiempo usé mucho la ofimática de Microsoft Office y el VB para aplicaciones.
+Desde 1998 al 2000 trabajé en Varadero, implementando estrategias de perfeccionamiento empresarial en compañías contratistas, inversionistas y proveedoras de servicios. Durante ese período me especialicé en el uso de Microsoft Office y Visual Basic para la automatización de procesos.
 
-Del 2000 al 2008 trabajé en le ONAT como administrador de redes en tres municipios de la provincia Granma y programé un sofware para windows en VB net llamado DISPAJ que se usó por varios años. En ese tiempo el programa oficial de la ONAT llamado SICAT no hacía bien el trabajo para el cálculo de la disciplina de pago de las personas jurídicas y mi software demostró que hacía bien el trabajo. Leia de una BD Oracle y trabajaba local en una Bd Access.
+Entre 2000 y 2008, me desempeñé como administrador de redes en la ONAT, abarcando tres municipios de la provincia Granma. En esa etapa desarrollé el software DISPAJ en VB.NET, utilizado por varios años para el cálculo de la disciplina de pago de personas jurídicas, mejorando la eficiencia respecto al programa oficial. Mi sistema integraba bases de datos Oracle y Access, aportando confiabilidad y precisión.
 
-Del 2008 hasta la actualidad comencé el pastorado en la Iglesia Metodista en Cuba (IMECU). Me gradué de licenciado en sagrada teología sin dejar de aportar gratuitamente cada vez que se necesita de mis conocimentos en programación. Mi proyecto actual que está en producción llamado GabIMECU, consta de dos softwares, uno para windows en .Net Famework 4.8 desarrollado en C# y otro compilado para Android con NET MAUI. Ambos softwares generan y procesan toda la información de los pastores metodistas en toda la Isla de Cuba como las mudanzas de un lugar a otro, categorias pastorales, familias pastorales. Control de los distritos, superintendentes y otros detalles importantes.
+Desde 2008 hasta la actualidad, he ejercido el pastorado en la Iglesia Metodista en Cuba. Me gradué de Licenciado en Sagrada Teología sin abandonar mi vocación por la programación, aportando gratuitamente cada vez que se requieren soluciones informáticas. Actualmente lidero el proyecto GabIMECU, que consta de dos aplicaciones en producción: una para Windows desarrollada en C# (.NET Framework 4.8) y otra multiplataforma para Android con .NET MAUI. Estos sistemas gestionan toda la información pastoral en Cuba: traslados, categorías, familias, distritos, superintendentes y otros datos relevantes.
 
 
 ## Encuéntrame en:
 
 [YouTube](https://youtube.com/@mpmerd)
-</br>
+
 [Facebook](https://facebook.com/maikel.pelaez)
-</br>
-[X](https://x.com/maikelpelaez)
-</br>
+
+[Red social X](https://x.com/maikelpelaez)
+
 [Wordpress](https://avivador.wordpress.com)
