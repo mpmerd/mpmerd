@@ -12,6 +12,8 @@ Entre 2000 y 2008, me desempeñé como administrador de redes en la ONAT, abarca
 
 Desde 2008 hasta la actualidad, he ejercido el pastorado en la Iglesia Metodista en Cuba. Me gradué de Licenciado en Sagrada Teología sin abandonar mi vocación por la programación, aportando gratuitamente cada vez que se requieren soluciones informáticas. Actualmente lidero el proyecto GabIMECU, que consta de dos aplicaciones en producción: una para Windows desarrollada en C# (.NET Framework 4.8) y otra multiplataforma para Android con .NET MAUI. Estos sistemas gestionan toda la información pastoral en Cuba: traslados, categorías, familias, distritos, superintendentes y otros datos relevantes.
 
+Desde diciembre del 2025 hasta junio del 2026 tengo en produccion un proyecto MVC con una app NET MAUI para android que gestiona todo el trabajo de la Farmacia Solidaria Cristiana en la ciudad de Cárdenas. Hasta el presente (Junio/2026) el proyecto tiene cerca de 1000 usuarios que se benefician de esta farmacia de donaciones.
+
 
 ## Encuéntrame en:
 
